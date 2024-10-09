@@ -1,0 +1,106 @@
+Dados do CEP:
+Rua: Rua Ponte Serrada
+Bairro: Itaquera
+Cidade: São Paulo
+Estado: SP
+---------------
+Dados do CEP:
+Rua: Avenida Aricanduva
+Bairro: Vila Califórnia
+Cidade: São Paulo
+Estado: SP
+---------------
+Dados do CEP:
+Rua: Rua Ponte Serrada
+Bairro: Itaquera
+Cidade: São Paulo
+Estado: SP
+---------------
+Dados do CEP:
+Rua: 
+Bairro: 
+Cidade: 
+Estado: 
+---------------
+Dados do CEP:
+Rua: 
+Bairro: 
+Cidade: 
+Estado: 
+---------------
+Dados do CEP:
+Rua: Rua Ponte Serrada
+Bairro: Itaquera
+Cidade: São Paulo
+Estado: SP
+---------------
+Dados do CEP:
+Rua: Rua Ponte Serrada
+Bairro: Itaquera
+Cidade: São Paulo
+Estado: SP
+---------------
+Dados do CEP:
+Rua: 
+Bairro: 
+Cidade: 
+Estado: 
+---------------
+Dados do CEP:
+Rua: Rua Ponte Serrada
+Bairro: Itaquera
+Cidade: São Paulo
+Estado: SP
+---------------
+Dados do CEP:
+Rua: Rua Ponte Serrada
+Bairro: Itaquera
+Cidade: São Paulo
+Estado: SP
+---------------
+Dados do CEP:
+Rua: Rua Ponte Serrada
+Bairro: Itaquera
+Cidade: São Paulo
+Estado: SP
+---------------
+Dados do CEP: 08290595
+Rua: Rua Ponte Serrada
+Bairro: Itaquera
+Cidade: São Paulo
+Estado: SP
+---------------
+Dados do CEP: 08290595
+Rua: Rua Ponte Serrada
+Bairro: Itaquera
+Cidade: São Paulo
+Estado: SP
+---------------
+Dados do CEP: 08290595
+Rua: Rua Ponte Serrada
+Bairro: Itaquera
+Cidade: São Paulo
+Estado: SP
+---------------
+Dados do CEP: 08290595
+Rua: Rua Ponte Serrada
+Bairro: Itaquera
+Cidade: São Paulo
+Estado: SP
+---------------
+----------------
+Dados do CEP: 08290595
+Rua: Rua Ponte Serrada
+Bairro: Itaquera
+Cidade: São Paulo
+Estado: SP
+----------------
+
+----------------
+Dados do CEP: 08290595
+Rua: Rua Ponte Serrada
+Bairro: Itaquera
+Cidade: São Paulo
+Estado: SP
+----------------
+
