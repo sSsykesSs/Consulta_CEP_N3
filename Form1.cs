@@ -122,7 +122,7 @@ namespace WindowsFormsApp1
 
         private void Form1_Load(object sender, EventArgs e)
         {
-
+            txtCep.SelectionStart = 0;
         }
 
         private void txtCep_MaskInputRejected(object sender, MaskInputRejectedEventArgs e)
